@@ -1,0 +1,16 @@
+/* some style */
+
+#tv { border: 1px solid gray;}
+.heading {
+  font-size: 26px;
+  color: hsl(180, 90%, 20%);
+
+}
+.tile {
+  width: auto;
+  height: auto;
+  max-height: 180px;
+  font-size: 22px;
+  overflow-y: scroll;
+  border: 1px solid blue;
+}
